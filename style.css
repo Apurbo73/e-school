@@ -1,0 +1,126 @@
+.body
+{
+    font-family: "poppins",sans-serif;
+}
+
+
+/*CSS Custom Styling*/
+.nav-design
+{
+    background-color: #F0FFF0;
+    margin-bottom: 20px
+}
+.nav-link:hover
+{
+    background-color: rgb(67, 173, 72);
+}
+
+
+.Introduction
+{
+    background-color: #F0FFF0;
+}
+.carousel-design
+{
+    background-color: #F0FFF0;
+}
+
+.categories
+{
+    border: none;
+    border-radius: 10px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.card-option
+{
+ background:  #F0FFF0;
+}
+.card-image img
+{
+    width: 66px;
+    height: 85px;
+}
+
+.AWS ,.ACM-Programming ,.CCNA-Certifactions,.Robotics
+{
+    box-sizing: border-box;
+    border: 2px solid rgb(139, 21, 21);
+    width: 350px;
+    padding-right: 10px;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding-left: 10px;
+    text-align: justify;
+    margin-left: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gray;
+}
+.AWS ,.ACM-Programming ,.CCNA-Certifactions,.Robotics h2
+{
+ text-align: center;
+}
+
+/*Accordion*/
+.accordion-bg
+{
+    background:  #F0FFF0;
+}
+
+.card-design
+{
+    overflow: hidden;
+    transition: all .25s ease;
+  
+
+}
+.card-design:hover
+{
+    transform: scale(1.05);
+   
+}
+
+/*Online course*/
+.Online-course img
+{
+ width: 331px;
+ height: 234px;
+
+}
+.courses-bg
+{
+    background:  #F0FFF0;
+
+}
+.popular-courses
+{
+    margin-top: 20px;
+}
+
+
+
+/*Offcanvas*/
+
+
+
+.Testimonial
+
+{
+    margin-left: 20px;
+}
+/*Footer section design*/
+footer
+{
+    background-color:  #282531;
+    color: white;
+    
+}
+.footer-paragraph
+{
+    font-weight: 500;
+}
+.Courses, .Terms, .Useful-links p
+{
+    font-size: 25px;
+    font-weight: 300;
+}
